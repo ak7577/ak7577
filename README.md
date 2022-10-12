@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anil Patil</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ak7577&label=Profile%20views&color=0e75b6&style=flat" alt="ak7577" /> </p>
+
 
 - 🔭 I’m currently working on **e-commerce project**
 
